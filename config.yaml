@@ -1,11 +1,13 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:eess.SY OR cat:eess.SP OR cat:cs.RO OR cat:cs.SY'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        navigation: 3
+        planning: 3
+        living: 1
+        dynamic: 1
+        robot: 2
 
 # 通知の閾値
 score_threshold: 0
