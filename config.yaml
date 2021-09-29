@@ -3,11 +3,15 @@ subject: 'cat:eess.SY OR cat:eess.SP OR cat:cs.RO OR cat:cs.SY'
 
 # 検索キーワード
 keywords:
+        task: 4
         navigation: 3
         planning: 3
         semantic: 3
-        living: 1
+        pddl: 3
+        motion: 2
         robot: 2
+        living: 1
+        
 
 # 通知の閾値
-score_threshold: 3
+score_threshold: 6
